@@ -17,24 +17,4 @@ A fully responsive React application for browsing and purchasing books. Users ca
 * **Bootstrap 5.3** for responsive UI design.
 * **React Router** for page navigation.
 
-## Screenshots
-### 1. Home Page
-![Home Page](./public/UI/homePage.png)
 
-### 2. Login Page
-![Main Page](./public/UI/LoginPage.png)
-
-### 3. Main Page
-![Login Page](./public/UI/MainPage.png)
-
-### 4. Read Page
-![Read Page](./public/UI/ReadPage.png)
-
-### 5. Offers Page
-![Offers Page](./public/UI/OffersPage.png)
-
-### 6. Buy Page
-![Buy Page](./public/UI/BuyPage.png)
-
-### 7. Contact Page
-![Contact Page](./public/UI/ContactPage.png)
