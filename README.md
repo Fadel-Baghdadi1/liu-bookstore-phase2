@@ -1,4 +1,4 @@
-# 📚 LIU Bookstore Project - Phase 2
+# 📚 Bookstore Project - Phase 2
 
 ## Project Description
 A fully responsive React application for browsing and purchasing books. Users can filter books by category, view details in a preview mode, and add items to a dynamic shopping cart.
