@@ -1,25 +1,24 @@
-/* General Layout */
+
 body {
-  background-color: #f8f9fa; /* Light grey background like your old design */
+  background-color: #f8f9fa; 
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-/* Home Page Hero Section */
+
 .hero-section {
   padding: 100px 20px;
   background: #ffffff;
   border-bottom: 1px solid #dee2e6;
 }
 
-/* Book Images */
-/* This ensures all book covers are the same size even if the links are different */
+
 .card-img-top {
   height: 250px;
   object-fit: cover;
   border-bottom: 1px solid #eee;
 }
 
-/* Category Grid (for the Home Page) */
+
 .categories-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -39,12 +38,11 @@ body {
   transform: translateY(-5px);
 }
 
-/* Utility classes */
 .vh-100 {
   min-height: 100vh;
 }
 
-/* Preview Content box */
+
 .preview-content {
   line-height: 1.6;
   font-size: 1.1rem;

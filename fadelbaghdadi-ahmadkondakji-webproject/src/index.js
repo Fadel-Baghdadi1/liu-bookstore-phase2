@@ -7,7 +7,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import App from './App';
-import './index.css'; // Importing global styles
+import './index.css'; // Importinsg global styles
 
 // Locate the 'root' div in the public/index.html file.
 // This is where the entire React application will be "injected".
